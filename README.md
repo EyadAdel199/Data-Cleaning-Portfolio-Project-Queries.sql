@@ -1,6 +1,6 @@
 # Data-Cleaning-Portfolio-Project-Queries.sql
 CREATE TABLE layoffs_staging
-LIKE layoffs;
+LIKE layoffs; 
 
 SELECT *
 FROM layoffs_staging;
